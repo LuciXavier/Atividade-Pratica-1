@@ -1,0 +1,1 @@
+Implemente um programa Java que simule uma escola. Crie uma classe Escola que possui um array de objetos da classe Turma, e cada Turma deve conter um array de objetos da classe Aluno. A classe Escola deve ter métodos para exibir a lista de alunos de cada turma e calcular a média das notas dos alunos de todas as turmas.
